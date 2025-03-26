@@ -1,0 +1,67 @@
+.w-20{
+  width : 20%;
+}
+
+.w-30{
+  width: 30%;
+}
+
+.logo-text{
+  width: 80px;
+}
+
+.bi{
+  margin-right: 10px;
+}
+
+.story{
+  width: auto;
+  height: 80px;
+  padding: 10px;
+}
+
+.dp{
+  height: 20px;
+  width : 20px;
+  margin-top: 8px;
+  margin-right: 8px;
+  object-fit: cover;
+  
+}
+
+.image{
+  width: 300px;
+  height: auto;
+}
+
+.suggesstions h5{
+  font-size: 16px;
+  
+  
+}
+.suggesstions .dp{
+  margin-top: 0px !important;
+}
+
+.gradient-border{
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  background-image: linear-gradient(45deg, #ff00ff, #ff6600, #ffcc00);
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.story-dp{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}

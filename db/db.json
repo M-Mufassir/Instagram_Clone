@@ -1,0 +1,256 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": "user_1",
+        "username": "john_doe",
+        "profilePic": "/src/assets/person_1.jpg",
+        "fullName": "John Doe"
+      },
+      "imageUrl": "/src/assets/post_1.jpg",
+      "caption": "Had an amazing trip to the mountains! #travel #nature",
+      "likes": 125,
+      "comments": [
+        {
+          "user": "jane_smith",
+          "comment": "Looks amazing! Where is this?"
+        },
+        {
+          "user": "lucas_brown",
+          "comment": "Wow, this is breathtaking!"
+        }
+      ],
+      "date": "2025-03-19T10:30:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": "user_3",
+        "username": "mike_james",
+        "profilePic": "/src/assets/person_2.jpg",
+        "fullName": "Mike James"
+      },
+      "imageUrl": "/src/assets/post_2.jpg",
+      "caption": "Celebrating my birthday with friends! #birthdaybash #goodtimes",
+      "likes": 315,
+      "comments": [
+        {
+          "user": "julia_carter",
+          "comment": "Happy birthday, Mike! 🎉"
+        },
+        {
+          "user": "sophie_clark",
+          "comment": "Looks like such a fun party!"
+        }
+      ],
+      "date": "2025-03-17T18:20:00Z"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": "user_5",
+        "username": "sophie_clark",
+        "profilePic": "/src/assets/person_3.jpg",
+        "fullName": "Sophie Clark"
+      },
+      "imageUrl": "/src/assets/post_3.jpg",
+      "caption": "Exploring the city on foot. #urbanexploration #citylife",
+      "likes": 88,
+      "comments": [
+        {
+          "user": "emily_lee",
+          "comment": "I need to visit this place!"
+        }
+      ],
+      "date": "2025-03-14T13:00:00Z"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": "user_7",
+        "username": "julia_carter",
+        "profilePic": "/src/assets/person_4.jpg",
+        "fullName": "Julia Carter"
+      },
+      "imageUrl": "/src/assets/post_4.jpg",
+      "caption": "A relaxing day at the spa. #selfcare #relaxation",
+      "likes": 145,
+      "comments": [
+        {
+          "user": "sophie_clark",
+          "comment": "This looks so peaceful!"
+        }
+      ],
+      "date": "2025-03-11T15:50:00Z"
+    },
+    {
+      "id": "9",
+      "user": {
+        "id": "user_9",
+        "username": "sarah_wilson",
+        "profilePic": "/src/assets/person_5.jpg",
+        "fullName": "Sarah Wilson"
+      },
+      "imageUrl": "/src/assets/post_5.jpg",
+      "caption": "Reading my favorite book at the park. #booklover #relaxing",
+      "likes": 80,
+      "comments": [
+        {
+          "user": "anna_marie",
+          "comment": "What's the book you're reading?"
+        },
+        {
+          "user": "mike_james",
+          "comment": "Love reading outside in the park!"
+        }
+      ],
+      "date": "2025-03-08T17:25:00Z"
+    }
+  ],
+  "profile": {
+    "id": "user_1",
+    "username": "mhmd_mfsr",
+    "profilePic": "/src/assets/person_4.jpg",
+    "fullName": "John Doe"
+  },
+  "suggesstions": [
+    {
+      "id": "user_1",
+      "username": "john_doe",
+      "profilePic": "/src/assets/person_1.jpg",
+      "fullName": "John Doe"
+    },
+    {
+      "id": "user_3",
+      "username": "mike_james",
+      "profilePic": "/src/assets/person_2.jpg",
+      "fullName": "Mike James"
+    },
+    {
+      "id": "user_5",
+      "username": "sophie_clark",
+      "profilePic": "/src/assets/person_3.jpg",
+      "fullName": "Sophie Clark"
+    },
+    {
+      "id": "user_7",
+      "username": "julia_carter",
+      "profilePic": "/src/assets/person_4.jpg",
+      "fullName": "Julia Carter"
+    },
+    {
+      "id": "user_4",
+      "username": "lucas_brown",
+      "profilePic": "/src/assets/person_7.jpg",
+      "fullName": "Lucas Brown"
+    },
+    {
+      "id": "user_6",
+      "username": "julia_carter",
+      "profilePic": "/src/assets/person_8.jpg",
+      "fullName": "Julia Carter"
+    },
+    {
+      "id": "user_8",
+      "username": "sophie_clark",
+      "profilePic": "/src/assets/person_9.jpg",
+      "fullName": "Sophie Clark"
+    },
+    {
+      "id": "user_10",
+      "username": "mike_james",
+      "profilePic": "/src/assets/person_10.jpg",
+      "fullName": "Mike James"
+    }
+  ],
+  "Story": [
+    {
+      "id": "1",
+      "user": {
+        "id": "user_1",
+        "username": "john_doe",
+        "profilePic": "/src/assets/person_1.jpg",
+        "fullName": "John Doe"
+      },
+      "imageUrl": "/src/assets/Story1.jpg",
+      "caption": "Had an amazing trip to the mountains! #travel #nature",
+      "likes": 125,
+      "date": "2025-03-19T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": "user_3",
+        "username": "mike_james",
+        "profilePic": "/src/assets/person_2.jpg",
+        "fullName": "Mike James"
+      },
+      "imageUrl": "/src/assets/Story2.jpg",
+      "caption": "Celebrating my birthday with friends! #birthdaybash #goodtimes",
+      "likes": 315,
+      "date": "2025-03-17T18:20:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": "user_5",
+        "username": "sophie_clark",
+        "profilePic": "/src/assets/person_3.jpg",
+        "fullName": "Sophie Clark"
+      },
+      "imageUrl": "/src/assets/Story3.jpg",
+      "caption": "Exploring the city on foot. #urbanexploration #citylife",
+      "likes": 88,
+      "date": "2025-03-14T13:00:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": "user_7",
+        "username": "julia_carter",
+        "profilePic": "/src/assets/person_4.jpg",
+        "fullName": "Julia Carter"
+      },
+      "imageUrl": "/src/assets/Story4.jpg",
+      "caption": "A relaxing day at the spa. #selfcare #relaxation",
+      "likes": 145,
+      "date": "2025-03-11T15:50:00Z"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": "user_9",
+        "username": "sarah_wilson",
+        "profilePic": "/src/assets/person_5.jpg",
+        "fullName": "Sarah Wilson"
+      },
+      "imageUrl": "/src/assets/Story5.jpg",
+      "caption": "Reading my favorite book at the park. #booklover #relaxing",
+      "likes": 80,
+      "date": "2025-03-08T17:25:00Z"
+    }
+  ],
+  "Followers": [
+    {
+      "id": "user_1",
+      "username": "john_doe"
+    },
+    {
+      "id": "user_3",
+      "username": "mike_james"
+    },
+    {
+      "id": "user_5",
+      "username": "sophie_clark"
+    },
+    {
+      "id": "user_7",
+      "username": "julia_carter"
+    },
+    {
+      "id": "user_4",
+      "username": "lucas_brown"
+    }
+  ]
+}
